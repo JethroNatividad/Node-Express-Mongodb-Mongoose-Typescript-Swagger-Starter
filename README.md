@@ -1,5 +1,7 @@
 # Express Typescript Starter
 
+### For development
+
 ### Run
 
 ```
@@ -11,5 +13,3 @@ yarn watch
 ```
 yarn dev
 ```
-
-### for development
