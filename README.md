@@ -6,6 +6,6 @@
 
 `yarn watch` and `yarn dev`
 
-## Or with your favorite npm
+#### Or with your favorite npm
 
 `npm run watch` and `npm run dev`
