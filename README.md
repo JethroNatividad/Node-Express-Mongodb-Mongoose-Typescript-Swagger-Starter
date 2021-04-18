@@ -1,10 +1,7 @@
-# Node Express Typescript Swagger Starter
+# Node Express Typescript MOngodb Mongoose Swagger Starter
 
-### Base url is /api
-
-#### swagger ui is in /docs
+This is a simple boilerplate with CRUD
 
 ### To start, run
 
-`yarn install`
-`yarn watch` and `yarn dev`
+`yarn install` `yarn watch` and `yarn dev`
