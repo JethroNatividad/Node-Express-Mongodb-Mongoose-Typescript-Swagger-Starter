@@ -1,4 +1,4 @@
-# Node Express Typescript MOngodb Mongoose Swagger Starter
+# Node Express Typescript Mongodb Mongoose Swagger Starter
 
 This is a simple boilerplate with CRUD
 
