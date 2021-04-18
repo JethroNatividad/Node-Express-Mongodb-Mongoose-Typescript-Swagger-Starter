@@ -1,11 +1,10 @@
-# Express Typescript Starter
+# Node Express Typescript Swagger Starter
 
-### For development
+### Base url is /api
 
-#### Run
+#### swagger ui is in /docs
 
+### To start, run
+
+`yarn install`
 `yarn watch` and `yarn dev`
-
-#### Or with your favorite npm
-
-`npm run watch` and `npm run dev`
